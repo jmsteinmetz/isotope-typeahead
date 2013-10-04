@@ -1,0 +1,79 @@
+[
+	{
+	"affiliation": "good",
+	"id": "lukeskywalker",
+	"display": "Luke Skywalker",
+	"twitter": "@kidluke",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",
+	"id": "hansolo",
+	"display": "Han Solo",
+	"twitter": "@nerfherder",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",
+	"id": "princesslea",
+	"display": "Princess Lea",
+	"twitter": "@bunhead",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "evil",	
+	"id": "darthvader",
+	"display": "Darth Vader",
+	"twitter": "@forcechoke",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",
+	"id": "chewbacca",
+	"display": "Chewbacca",
+	"twitter": "@arrrrrrwww",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",	
+	"id": "r2d2",
+	"display": "R2-D2",
+	"twitter": "@beepbeep",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",	
+	"id": "yoda",
+	"display": "Yoda",
+	"twitter": "@therealyodaiam",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "mercenary",	
+	"id": "bobafett",
+	"display": "Boba Fett",
+	"twitter": "@bountyhunter",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "mercenary",	
+	"id": "jabbathehutt",
+	"display": "Jabba the Hutt",
+	"twitter": "@bigboned",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",	
+	"id": "c3po",
+	"display": "C3PO",
+	"twitter": "@droidthug",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	},
+	{
+	"affiliation": "good",	
+	"id": "benkenobi",
+	"display": "Ben Kenobi",
+	"twitter": "@morepowerful",
+	"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum et turpis sit amet porttitor. Duis non aliquam nisl, eget viverra magna."
+	}
+]
